@@ -3,14 +3,14 @@
 
 ## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
-이름: 남 정호
+이름: 김 효진
 
-  - 생년월일: 1988-03-11
+  - 생년월일: 1994-03-05
   - 연락처: 010-3627-0016
-  - Github: https://github.com/samchon
+  - Github: https://github.com/Hyojin9023/resume
 
 ### [1.2. Education](https://github.com/samchon/resume/blob/master/STORY.md#12-education)
-한성대학교, 2011-03 ~ 2014-08
+동서울대학교, 2013-03 ~ 2017-02
 
   - 주전공: 정보시스템공학
   - 복수전공: 경영학
