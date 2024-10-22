@@ -17,9 +17,7 @@
     - 비고: 
 
 ### [1.3. Awards](https://github.com/samchon/resume/blob/master/STORY.md#13-awards)
-  - [Samchon Simulation](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation): 한성대 공학경진대회 2012 은상
-  - [Samchon Framework](https://github.com/samchon/resume/blob/master/STORY.md#311-samchon-framework): 공개소프트웨어개발자대회 2015 일반부 동상
-  - [TSTL](https://github.com/samchon/resume/blob/master/STORY.md#312-tstl): 공개소프트웨어개발자대회 2017 일반부 은상
+  
 
 ### [1.4. Skills](https://github.com/samchon/resume/blob/master/STORY.md#14-skills)
 Skill        | Experiences | Careers | Note
