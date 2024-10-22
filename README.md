@@ -16,10 +16,10 @@
   - 학점:  / 4.50
     - 비고: 
 
-### [1.3. Awards](https://github.com/samchon/resume/blob/master/STORY.md#13-awards)
+### [1.3. Awards]()
   
 
-### [1.4. Skills](https://github.com/samchon/resume/blob/master/STORY.md#14-skills)
+### [1.4. Skills]()
 Skill        | Experiences | Careers | Note
 -------------|-------------|---------|-----------------------------------
 C++          | 12 년       | 3 년    | 최신 STL 과 Template Meta Programming 에 능함
@@ -27,7 +27,7 @@ TypeScript   | 8 년        | 4 년    | 현 한국 랭킹 1 위 (git-awards 기
 ActionScript | 20 년       | 2 년    | Flex Architecture 를 통해 고급 설계에 입문함
 DB/SQL       | 20 년       | 5 년    | ERD 설계에 능함
 
-### [1.5. Experiences](https://github.com/samchon/resume/blob/master/STORY.md#15-experiences)
+### [1.5. Experiences]()
   - 프로그래밍 경험: 25 년
   - 총 상용 경력 92 개월
     - 정규직: 79 개월
@@ -35,26 +35,19 @@ DB/SQL       | 20 년       | 5 년    | ERD 설계에 능함
 
 Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
-[스마트케어웍스](https://github.com/samchon/resume/blob/master/STORY.md#41-smartcareworks) | 2014-10    | 2015-02    | 계약직
-[유니텍 해양연구소](https://github.com/samchon/resume/blob/master/STORY.md#42-unitech)     | 2015-05    | 2015-07    | 계약직
-[히즈윌 부설연구소](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2015-10    | 2015-11    | 계약직
-[히즈윌 부설연구소](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2015-11    | 2017-01    | 정규직
-[아이지넷](https://github.com/samchon/resume/blob/master/STORY.md#44-aijinet)             | 2017-01    | 2019-12    | 정규직
-[아이지넷](https://github.com/samchon/resume/blob/master/STORY.md#44-aijinet)             | 2020-01    | 2020-07    | 계약직
-[집토스](https://github.com/samchon/resume/blob/master/STORY.md#45-ziptoss) | 2020-08 | 2020-10 | 정규직
 아키드로우 | 2020-11 | 재직중 | 정규직
 
 
 
 
-## [2. Introduction](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
-### [2.1. For a lifetime](https://github.com/samchon/resume/blob/master/STORY.md#21-for-a-lifetime)
+## [2. Introduction]()
+### [2.1. For a lifetime]()
 1998 년 이래로 프로그래밍을 시작, 25 년을 한결같이 매진해왔습니다.
 
-### [2.2. Self Improvement](https://github.com/samchon/resume/blob/master/STORY.md#22-self-improvement)
+### [2.2. Self Improvement]()
 회사에서 근무하는 동안, 새로운 라이브러리에 대한 필요를 느끼거나 혹은 기존 라이브러리에서 불편함을 느끼면, 집으로 돌아와 이를 오픈소스 프로젝트로 제작해보고는 합니다.
 
-### [2.3. Standardization](https://github.com/samchon/resume/blob/master/STORY.md#23-standardization)
+### [2.3. Standardization]()
 25 년 간 개발을 공부해오면서, 표준화의 중요성을 절실히 느껴, 이를 중시합니다.
 
 ### [2.4. Documentation](https://github.com/samchon/resume/blob/master/STORY.md#24-documentation)
