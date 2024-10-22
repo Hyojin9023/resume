@@ -6,16 +6,15 @@
 이름: 김 효진
 
   - 생년월일: 1994-03-05
-  - 연락처: 010-3627-0016
+  - 연락처: 
   - Github: https://github.com/Hyojin9023/resume
 
 ### [1.2. Education](https://github.com/samchon/resume/blob/master/STORY.md#12-education)
 동서울대학교, 2013-03 ~ 2017-02
 
-  - 주전공: 정보시스템공학
-  - 복수전공: 경영학
-  - 학점: 4.16 / 4.50
-    - 비고: 조기 졸업
+  - 주전공: 
+  - 학점:  / 4.50
+    - 비고: 
 
 ### [1.3. Awards](https://github.com/samchon/resume/blob/master/STORY.md#13-awards)
   - [Samchon Simulation](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation): 한성대 공학경진대회 2012 은상
